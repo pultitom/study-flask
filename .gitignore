@@ -60,3 +60,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+#vim swap files
+*.swp
+
+#vim undo files
+*.un~
